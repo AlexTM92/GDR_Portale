@@ -2,8 +2,32 @@
 
 Readme
 
-Ciao, sono Alessio
+1) Registrazione Utente
+  
+  userName*
+  password*
+  email*
+  nome
+  cognome
+  img
 
-Grandissimo colpo, di McEnroe
+2) Autenticazione Utente
+  
+  userName o email
+  password
+  
+-> autenticazione ok
 
--update da lmio fork
+3) home page
+  
+  profilo
+  notifiche
+  le mie cronache
+  cronache aperte
+  crea personaggio
+  sessioni attive
+  
+  
+-> errore nell'autenticazione
+
+2) messaggio errore
