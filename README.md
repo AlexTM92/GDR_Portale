@@ -28,6 +28,15 @@ Readme
   sessioni attive
   
   
+ 4) crea cronaca
+   scelta del gioco
+   scelta del nome
+   aaggiunta parametri 
+   invita utenti
+   cronache visibile a tutti o solo agli utenti invitati
+   
+    
+ 
 -> errore nell'autenticazione
 
 2) messaggio errore
